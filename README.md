@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Torben – a 3rd-year PhD at TUM, exploring the intersection of Machine Learning and Materials Discovery! 🚀  
+## 👋 Hi, I'm Thorben – a 3rd-year PhD at TUM, exploring the intersection of Machine Learning and Materials Discovery! 🚀  
 
 I’m passionate about advancing materials science using cutting-edge AI techniques. From innovating with natural language processing to designing models for materials synthesis, I bridge disciplines to unlock tomorrow’s possibilities. 🌟  
 
