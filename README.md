@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi, I'm Thorben a 3rd year PhD at TUM, exploring the world of Machine Learning x Materials Discovery! 🚀
 
 <!--
 **Thorben010/Thorben010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-👋 Hi, I'm Thorben a 3rd year PhD at TUM, exploring the world of Machine Learning x Materials Discovery! 🚀
 
 NLP
 Augmenting scientific creativity with retrieval across knowledge domains
