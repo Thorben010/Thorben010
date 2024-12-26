@@ -1,27 +1,29 @@
-## 👋 Hi, I'm Thorben a 3rd year PhD at TUM, exploring the world of Machine Learning x Materials Discovery! 🚀
+## 👋 Hi, I'm Torben – a 3rd-year PhD at TUM, exploring the intersection of Machine Learning and Materials Discovery! 🚀  
 
-<!--
-**Thorben010/Thorben010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m passionate about advancing materials science using cutting-edge AI techniques. From innovating with natural language processing to designing models for materials synthesis, I bridge disciplines to unlock tomorrow’s possibilities. 🌟  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 **NLP Projects**  
+**Augmenting Scientific Creativity**  
+- Leveraging retrieval across knowledge domains to foster groundbreaking ideas.  
 
-NLP
-Augmenting scientific creativity with retrieval across knowledge domains
-Extracting a Database of Challenges and Mitigation Strategies for Sodium-ion Battery Development
-Regress, Don't Guess--A Regression-like Loss on Number Tokens for Language Models
+**Extracting Sodium-Ion Battery Insights**  
+- Building a comprehensive database of challenges and mitigation strategies for sodium-ion battery development.  
 
-Materials Science
-MTENCODER: A Multi-task Pretrained Transformer Encoder for Materials Representation Learning
-A chemically-guided generative diffusion model for materials synthesis planning
-Reaction Graph Networks for Inorganic Synthesis Condition Prediction of Solid State Materials
+**Regress, Don’t Guess**  
+- Innovating regression-like loss functions on number tokens for language models, pushing the boundaries of NLP applications.  
 
+---
+
+### 🧪 **Materials Science Projects**  
+**MTENCODER**  
+- Developing a multi-task pretrained transformer encoder for materials representation learning.  
+
+**Generative Diffusion Model for Materials Synthesis**  
+- Designing a chemically guided diffusion model for planning and optimizing materials synthesis.  
+
+**Reaction Graph Networks**  
+- Predicting synthesis conditions of solid-state materials using reaction graph networks to enable efficient material discovery.  
+
+---
