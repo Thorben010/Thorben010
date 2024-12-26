@@ -1,12 +1,15 @@
 ## 👋 Hi, I'm Thorben – a 3rd-year PhD at TUM, exploring the intersection of Machine Learning and Materials Discovery! 🚀  
 
-I’m passionate about advancing materials science using cutting-edge AI techniques. From innovating with natural language processing to designing models for materials synthesis, I bridge disciplines to unlock tomorrow’s possibilities. 🌟  
+I’m passionate about advancing materials science by integrating state of the art AI techniques. My contributions span from materials representation learning to NLP. 🌟  
 
 ---
+###Natural Language Processing
 
-### 🔍 **NLP Projects**  
-**Augmenting Scientific Creativity**  
-- Leveraging retrieval across knowledge domains to foster groundbreaking ideas.  
+**Augmenting Scientific Creativity with Retrieval across Knowledge Domains**  
+- Developed an exploratory search system enabling scientists to select core text from a paper abstract and retrieve cross-domain papers with high similarity, facilitating innovative research approaches.  
+- **Methods**: Sentence Transformers, Clustering Techniques & Metrics  
+- **Paper**: [Augmenting Scientific Creativity with Retrieval across Knowledge Domains](https://arxiv.org/pdf/2206.01328)  
+- **Code**: [GitHub Repository](https://github.com/olivettigroup/cross-domain-exploration)  
 
 **Extracting Sodium-Ion Battery Insights**  
 - Building a comprehensive database of challenges and mitigation strategies for sodium-ion battery development.  
