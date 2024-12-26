@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+👋 Hi, I'm Thorben a 3rd year PhD at TUM, exploring the world of Machine Learning x Materials Discovery! 🚀
+
 NLP
 Augmenting scientific creativity with retrieval across knowledge domains
 Extracting a Database of Challenges and Mitigation Strategies for Sodium-ion Battery Development
