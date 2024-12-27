@@ -5,6 +5,17 @@ I’m passionate about advancing materials science by integrating state of the a
 ---
 ### Natural Language Processing
 
+
+**Regress, Don't Guess – A Regression-like Loss on Number Tokens for Language Models**  
+- Introduced two novel loss functions that enhance language models' numerical reasoning by considering the proximity between number tokens, thereby improving arithmetic capabilities.  
+- **Methods**: Lp Loss, Wasserstein-1 Distance  
+- **Paper**: [Regress, Don't Guess – A Regression-like Loss on Number Tokens for Language Models](https://arxiv.org/pdf/2411.02083)  
+- **Code**: [GitHub Repository](https://github.com/tum-ai/number-token-loss)  
+- **Image**:  
+  <div align="center">
+    <img src="ntl.jpg" alt="Regression-like Loss on Number Tokens" width="400"/>
+  </div>
+
 **Augmenting Scientific Creativity with Retrieval across Knowledge Domains**  
 - Developed an exploratory search system enabling scientists to select core text from a paper abstract and retrieve cross-domain papers with high similarity, facilitating knowledge transfer across scientific domains.  
 - **Methods**: Sentence Transformers, Clustering Techniques & Metrics  
@@ -22,9 +33,6 @@ I’m passionate about advancing materials science by integrating state of the a
   <div align="center">
     <img src="sib_cluster.jpg" alt="SIB Challenges" width="600"/>
   </div> 
-
-**Regress, Don’t Guess**  
-- Innovating regression-like loss functions on number tokens for language models, pushing the boundaries of NLP applications.  
 
 ---
 
