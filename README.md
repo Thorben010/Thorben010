@@ -18,7 +18,7 @@ I’m passionate about advancing materials science by integrating state of the a
 - **Methods**: Graph Neural Networks, Inorganic Reaction Modeling, Synthesis Condition Prediction
 - **Paper**: [Reaction Graph Networks for Inorganic Synthesis Condition Prediction](https://openreview.net/forum?id=VGsXQOTs1E)
   <div align="center">
-    <img src="reaction_graph_network.jpg" alt="Reaction Graph Network" width="600"/>
+    <img src="rgn.jpg" alt="Reaction Graph Network" width="600"/>
   </div>
 
 **A Chemically-Guided Generative Diffusion Model for Materials Synthesis Planning**  
