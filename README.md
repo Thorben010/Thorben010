@@ -19,7 +19,6 @@ I’m passionate about advancing materials science by integrating state of the a
 - **Methods**: Open Information Extraction, Named Entity Recognition, Coreference Resolution 
 - **Paper**: [Extracting a Database of Challenges and Mitigation Strategies for Sodium-ion Battery Development](https://openreview.net/pdf?id=3GiwwOJ1be)  
 - **Code**: [GitHub Repository](https://github.com/olivettigroup/NLP4SIB)  
-- **Image**:  
   <div align="center">
     <img src="sib_cluster" alt="SIB Challenges" width="400"/>
   </div> 
