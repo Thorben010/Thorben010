@@ -3,6 +3,7 @@
 I’m passionate about advancing materials science by integrating state of the art AI techniques. My contributions span from materials representation learning to NLP. 🌟  
 
 ---
+### 🧪 **Materials Science**
 
 **MTENCODER: A Multi-task Pretrained Transformer Encoder for Materials Representation Learning**  
 - Developed a transformer-based encoder co-trained across diverse materials properties and a denoising objective, resulting in robust and generalizable materials representations.
