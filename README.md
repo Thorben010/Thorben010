@@ -17,7 +17,7 @@ I’m passionate about advancing materials science by integrating state of the a
 **Extracting a Database of Challenges and Mitigation Strategies for Sodium-ion Battery Development**  
 - Created a detailed database highlighting performance and synthesis challenges in sodium-ion battery (SIB) cathode materials, alongside proposed mitigation strategies, to accelerate SIB research and development.
 - **Methods**: Open Information Extraction, Named Entity Recognition, Coreference Resolution 
-- **Paper**: [(NeurIPS AI for Materials) Extracting a Database of Challenges and Mitigation Strategies for Sodium-ion Battery Development](https://openreview.net/pdf?id=3GiwwOJ1be)  
+- **Paper**: [(NeurIPS AI4Mat) Extracting a Database of Challenges and Mitigation Strategies for Sodium-ion Battery Development](https://openreview.net/pdf?id=3GiwwOJ1be)  
 - **Code**: [GitHub Repository](https://github.com/olivettigroup/NLP4SIB)  
   <div align="center">
     <img src="sib_cluster.jpg" alt="SIB Challenges" width="600"/>
