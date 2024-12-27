@@ -14,8 +14,15 @@ I’m passionate about advancing materials science by integrating state of the a
   <img src="scientific_creativity.jpg" alt="Scientific Creativity" width="400"/>
 </div>
 
-**Extracting Sodium-Ion Battery Insights**  
-- Building a comprehensive database of challenges and mitigation strategies for sodium-ion battery development.  
+**Extracting a Database of Challenges and Mitigation Strategies for Sodium-ion Battery Development**  
+- Developed a comprehensive database identifying performance and synthesis challenges in sodium-ion battery (SIB) cathode active materials, paired with proposed mitigation strategies, to expedite SIB research and development.  
+- **Methods**: Open Information Extraction, Named Entity Recognition, Coreference Resolution 
+- **Paper**: [Extracting a Database of Challenges and Mitigation Strategies for Sodium-ion Battery Development](https://openreview.net/pdf?id=3GiwwOJ1be)  
+- **Code**: [GitHub Repository](https://github.com/olivettigroup/NLP4SIB)  
+- **Image**:  
+  <div align="center">
+    <img src="sib_cluster" alt="SIB Challenges" width="400"/>
+  </div> 
 
 **Regress, Don’t Guess**  
 - Innovating regression-like loss functions on number tokens for language models, pushing the boundaries of NLP applications.  
