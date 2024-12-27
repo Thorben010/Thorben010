@@ -18,7 +18,7 @@ I’m passionate about advancing materials science by integrating state of the a
 - **Methods**: Multi-task Learning, Transformer Architecture, Denoising Autoencoders
 - **Paper**: [(NeurIPS AI4Mat) MTENCODER: A Multi-task Pretrained Transformer Encoder for Materials Representation Learning](https://openreview.net/pdf?id=wug7i3O7y1) 
   <div align="center">
-  <img src="denoising_diffusion.png" alt="Denoising Diffusion PNG" width="50%"/>
+  <img src="denoising_diffusion.png" alt="Denoising Diffusion PNG" width="60%"/>
   <img src="denoising_diffusion.gif" alt="Denoising Diffusion GIF" width="20%"/>
 </div>
 
