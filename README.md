@@ -12,7 +12,7 @@ I’m passionate about advancing materials science by integrating state of the a
   
 <div align="center">
   <img src="denoising_diffusion.png" alt="Denoising Diffusion PNG" width="60%" style="margin-right: 5%;">
-  <img src="denoising_diffusion.gif" alt="Denoising Diffusion GIF" width="20%">
+  <img src="denoising_diffusion.gif" alt="Denoising Diffusion GIF" width="18%">
 </div>
 
 
