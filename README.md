@@ -18,9 +18,9 @@ I’m passionate about advancing materials science by integrating state of the a
 - **Methods**: Graph Neural Networks, Inorganic Reaction Modeling, Synthesis Condition Prediction
 - **Paper**: [(NeurIPS AI4Mat) Reaction Graph Networks for Inorganic Synthesis Condition Prediction](https://openreview.net/forum?id=VGsXQOTs1E)
 
-  <div align="center">
-    <img src="rgn.jpg" alt="Reaction Graph Network" width="600"/>
-  </div>
+<div align="center">
+  <img src="rgn.jpg" alt="Reaction Graph Network" width="600"/>
+</div>
 
 **A Chemically-Guided Generative Diffusion Model for Materials Synthesis Planning**  
 - Introduces a generative model utilizing diffusion processes to predict viable synthesis routes for zeolite materials, considering the complex one-to-many relationships between structure and synthesis.
