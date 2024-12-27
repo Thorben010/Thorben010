@@ -16,7 +16,8 @@ I’m passionate about advancing materials science by integrating state of the a
 **Reaction Graph Networks for Inorganic Synthesis Condition Prediction**  
 - Combined a Deep Learned Material Encoder with Graph Networks to model precursor interactions in inorganic reactions, enabling the prediction of synthesis conditions for solid-state materials.
 - **Methods**: Graph Neural Networks, Inorganic Reaction Modeling, Synthesis Condition Prediction
-- **Paper**: [Reaction Graph Networks for Inorganic Synthesis Condition Prediction](https://openreview.net/forum?id=VGsXQOTs1E)
+- **Paper**: [(NeurIPS AI4Mat) Reaction Graph Networks for Inorganic Synthesis Condition Prediction](https://openreview.net/forum?id=VGsXQOTs1E)
+
   <div align="center">
     <img src="rgn.jpg" alt="Reaction Graph Network" width="600"/>
   </div>
