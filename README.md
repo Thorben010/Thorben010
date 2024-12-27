@@ -26,7 +26,7 @@ I’m passionate about advancing materials science by integrating state of the a
 **Regress, Don't Guess – A Regression-like Loss on Number Tokens for Language Models**  
 - Introduced a novel loss function that enhance language models' numerical reasoning by considering the proximity between number tokens, thereby improving arithmetic capabilities.  
 - **Methods**: Autoregressive Transformers (T5) 
-- **Paper**: [(NeurIPS MathAI)Regress, Don't Guess – A Regression-like Loss on Number Tokens for Language Models](https://arxiv.org/pdf/2411.02083)  
+- **Paper**: [(NeurIPS MathAI) Regress, Don't Guess – A Regression-like Loss on Number Tokens for Language Models](https://arxiv.org/pdf/2411.02083)  
 - **Code**: [GitHub Repository](https://github.com/tum-ai/number-token-loss)  
   <div align="center">
     <img src="ntl.jpg" alt="Regression-like Loss on Number Tokens" width="400"/>
@@ -36,7 +36,7 @@ I’m passionate about advancing materials science by integrating state of the a
 **MTENCODER: A Multi-task Pretrained Transformer Encoder for Materials Representation Learning**  
 - Developed a transformer-based encoder co-trained across diverse materials properties and a denoising objective, resulting in robust and generalizable materials representations.
 - **Methods**: Multi-task Learning, Transformer Architecture, Denoising Autoencoders
-- **Paper**: [MTENCODER: A Multi-task Pretrained Transformer Encoder for Materials Representation Learning](https://openreview.net/pdf?id=wug7i3O7y1) 
+- **Paper**: [(NeurIPS AI4Mat) MTENCODER: A Multi-task Pretrained Transformer Encoder for Materials Representation Learning](https://openreview.net/pdf?id=wug7i3O7y1) 
   <div align="center">
     <img src="mtencoder.jpg" alt="MTENCODER" width="600"/>
   </div>
