@@ -10,8 +10,9 @@ I’m passionate about advancing materials science by integrating state of the a
 - **Methods**: Sentence Transformers, Clustering Techniques & Metrics  
 - **Paper**: [Augmenting Scientific Creativity with Retrieval across Knowledge Domains](https://arxiv.org/pdf/2206.01328)  
 - **Code**: [GitHub Repository](https://github.com/olivettigroup/cross-domain-exploration)  
-<img src="scientific_creativity.jpg" alt="Scientific Creativity" width="400"/>
-
+<div align="center">
+  <img src="scientific_creativity.jpg" alt="Scientific Creativity" width="400"/>
+</div>
 
 **Extracting Sodium-Ion Battery Insights**  
 - Building a comprehensive database of challenges and mitigation strategies for sodium-ion battery development.  
