@@ -5,6 +5,22 @@ I’m passionate about advancing materials science by integrating state of the a
 ---
 ### 🧪 **Materials Science**
 
+**MTENCODER: A Multi-task Pretrained Transformer Encoder for Materials Representation Learning**  
+- Developed a transformer-based encoder co-trained across diverse materials properties and a denoising objective, resulting in robust and generalizable materials representations.
+- **Methods**: Multi-task Learning, Transformer Architecture, Denoising Autoencoders
+- **Paper**: [(NeurIPS AI4Mat) MTENCODER: A Multi-task Pretrained Transformer Encoder for Materials Representation Learning](https://openreview.net/pdf?id=wug7i3O7y1) 
+  <div align="center">
+    <img src="mtencoder.jpg" alt="MTENCODER" width="600"/>
+  </div>
+
+**Reaction Graph Networks for Inorganic Synthesis Condition Prediction**  
+- Combined a Deep Learned Material Encoder with Graph Networks to model precursor interactions in inorganic reactions, enabling the prediction of synthesis conditions for solid-state materials.
+- **Methods**: Graph Neural Networks, Inorganic Reaction Modeling, Synthesis Condition Prediction
+- **Paper**: [Reaction Graph Networks for Inorganic Synthesis Condition Prediction](https://openreview.net/forum?id=VGsXQOTs1E)
+  <div align="center">
+    <img src="reaction_graph_network.jpg" alt="Reaction Graph Network" width="600"/>
+  </div>
+
 **A Chemically-Guided Generative Diffusion Model for Materials Synthesis Planning**  
 - Introduces a generative model utilizing diffusion processes to predict viable synthesis routes for zeolite materials, considering the complex one-to-many relationships between structure and synthesis.
 - **Methods**: Diffusion Models, Generative Modeling, Materials Synthesis Prediction
@@ -14,15 +30,7 @@ I’m passionate about advancing materials science by integrating state of the a
   <img src="denoising_diffusion.png" alt="Denoising Diffusion PNG" width="60%" style="margin-right: 5%;">
   <img src="denoising_diffusion.gif" alt="Denoising Diffusion GIF" width="15%">
 </div>
-
-
-**MTENCODER: A Multi-task Pretrained Transformer Encoder for Materials Representation Learning**  
-- Developed a transformer-based encoder co-trained across diverse materials properties and a denoising objective, resulting in robust and generalizable materials representations.
-- **Methods**: Multi-task Learning, Transformer Architecture, Denoising Autoencoders
-- **Paper**: [(NeurIPS AI4Mat) MTENCODER: A Multi-task Pretrained Transformer Encoder for Materials Representation Learning](https://openreview.net/pdf?id=wug7i3O7y1) 
-  <div align="center">
-    <img src="mtencoder.jpg" alt="MTENCODER" width="600"/>
-  </div>
+  
 ---
 ### 📖 **Natural Language Processing**
 
@@ -52,9 +60,5 @@ I’m passionate about advancing materials science by integrating state of the a
   <div align="center">
     <img src="ntl.jpg" alt="Regression-like Loss on Number Tokens" width="400"/>
   </div>
-
-
-**Reaction Graph Networks**  
-- Predicting synthesis conditions of solid-state materials using reaction graph networks to enable efficient material discovery.  
 
 ---
