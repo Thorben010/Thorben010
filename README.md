@@ -5,14 +5,6 @@ I’m passionate about advancing materials science by integrating state of the a
 ---
 ### 🧪 **Materials Science**
 
-**MTENCODER: A Multi-task Pretrained Transformer Encoder for Materials Representation Learning**  
-- Developed a transformer-based encoder co-trained across diverse materials properties and a denoising objective, resulting in robust and generalizable materials representations.
-- **Methods**: Multi-task Learning, Transformer Architecture, Denoising Autoencoders
-- **Paper**: [(NeurIPS AI4Mat) MTENCODER: A Multi-task Pretrained Transformer Encoder for Materials Representation Learning](https://openreview.net/pdf?id=wug7i3O7y1) 
-  <div align="center">
-    <img src="mtencoder.jpg" alt="MTENCODER" width="600"/>
-  </div>
-
 **A Chemically-Guided Generative Diffusion Model for Materials Synthesis Planning**  
 - Introduces a generative model utilizing diffusion processes to predict viable synthesis routes for zeolite materials, considering the complex one-to-many relationships between structure and synthesis.
 - **Methods**: Diffusion Models, Generative Modeling, Materials Synthesis Prediction
@@ -27,11 +19,9 @@ I’m passionate about advancing materials science by integrating state of the a
 - Developed a transformer-based encoder co-trained across diverse materials properties and a denoising objective, resulting in robust and generalizable materials representations.
 - **Methods**: Multi-task Learning, Transformer Architecture, Denoising Autoencoders
 - **Paper**: [(NeurIPS AI4Mat) MTENCODER: A Multi-task Pretrained Transformer Encoder for Materials Representation Learning](https://openreview.net/pdf?id=wug7i3O7y1) 
-
   <div align="center">
     <img src="mtencoder.jpg" alt="MTENCODER" width="600"/>
   </div>
-  
 ---
 ### 📖 **Natural Language Processing**
 
