@@ -33,6 +33,14 @@ I’m passionate about advancing materials science by integrating state of the a
   </div>
 
 ---
+**MTENCODER: A Multi-task Pretrained Transformer Encoder for Materials Representation Learning**  
+- Developed a transformer-based encoder co-trained across diverse materials properties and a denoising objective, resulting in robust and generalizable materials representations.
+- **Methods**: Multi-task Learning, Transformer Architecture, Denoising Autoencoders
+- **Paper**: [MTENCODER: A Multi-task Pretrained Transformer Encoder for Materials Representation Learning](https://openreview.net/pdf?id=wug7i3O7y1) 
+  <div align="center">
+    <img src="ntl.jpg" alt="Regression-like Loss on Number Tokens" width="400"/>
+  </div>
+
 
 ### 🧪 **Materials Science Projects**  
 **MTENCODER**  
