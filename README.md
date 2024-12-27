@@ -6,7 +6,7 @@ I’m passionate about advancing materials science by integrating state of the a
 ###Natural Language Processing
 
 **Augmenting Scientific Creativity with Retrieval across Knowledge Domains**  
-- Developed an exploratory search system enabling scientists to select core text from a paper abstract and retrieve cross-domain papers with high similarity, facilitating innovative research approaches.  
+- Developed an exploratory search system enabling scientists to select core text from a paper abstract and retrieve cross-domain papers with high similarity, facilitating knowledge transfer across scientific domains.  
 - **Methods**: Sentence Transformers, Clustering Techniques & Metrics  
 - **Paper**: [Augmenting Scientific Creativity with Retrieval across Knowledge Domains](https://arxiv.org/pdf/2206.01328)  
 - **Code**: [GitHub Repository](https://github.com/olivettigroup/cross-domain-exploration)  
