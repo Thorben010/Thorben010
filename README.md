@@ -26,7 +26,7 @@ I’m passionate about advancing materials science by integrating state of the a
 **Regress, Don't Guess – A Regression-like Loss on Number Tokens for Language Models**  
 - Introduced a novel loss function that enhance language models' numerical reasoning by considering the proximity between number tokens, thereby improving arithmetic capabilities.  
 - **Methods**: Autoregressive Transformers (T5) 
-- **Paper**: [Regress, Don't Guess – A Regression-like Loss on Number Tokens for Language Models](https://arxiv.org/pdf/2411.02083)  
+- **Paper**: [(NeurIPS MathAI)Regress, Don't Guess – A Regression-like Loss on Number Tokens for Language Models](https://arxiv.org/pdf/2411.02083)  
 - **Code**: [GitHub Repository](https://github.com/tum-ai/number-token-loss)  
   <div align="center">
     <img src="ntl.jpg" alt="Regression-like Loss on Number Tokens" width="400"/>
