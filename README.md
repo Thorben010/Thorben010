@@ -10,7 +10,7 @@ I’m passionate about advancing materials science by integrating state of the a
 - **Methods**: Multi-task Learning, Transformer Architecture, Denoising Autoencoders
 - **Paper**: [(NeurIPS AI4Mat) MTENCODER: A Multi-task Pretrained Transformer Encoder for Materials Representation Learning](https://openreview.net/pdf?id=wug7i3O7y1) 
   <div align="center">
-    <img src="mtencoder.jpg" alt="MTENCODER" width="600"/>
+    <img src="figures/mtencoder.jpg" alt="MTENCODER" width="600"/>
   </div>
 
 **Reaction Graph Networks for Inorganic Synthesis Condition Prediction**  
@@ -19,7 +19,7 @@ I’m passionate about advancing materials science by integrating state of the a
 - **Paper**: [(NeurIPS AI4Mat) Reaction Graph Networks for Inorganic Synthesis Condition Prediction](https://openreview.net/forum?id=VGsXQOTs1E)
 
 <div align="center">
-  <img src="rgn.jpg" alt="Reaction Graph Network" width="600"/>
+  <img src="figures/rgn.jpg" alt="Reaction Graph Network" width="600"/>
 </div>
 
 **A Chemically-Guided Generative Diffusion Model for Materials Synthesis Planning**  
@@ -28,8 +28,8 @@ I’m passionate about advancing materials science by integrating state of the a
 - **Paper**: [(NeurIPS AI4Mat Spotlight) A Chemically-Guided Generative Diffusion Model for Materials Synthesis Planning](https://openreview.net/pdf?id=hy39qxU6CQ)
   
 <div align="center">
-  <img src="denoising_diffusion.png" alt="Denoising Diffusion PNG" width="60%" style="margin-right: 5%;">
-  <img src="denoising_diffusion.gif" alt="Denoising Diffusion GIF" width="15%">
+  <img src="figures/denoising_diffusion.png" alt="Denoising Diffusion PNG" width="60%" style="margin-right: 5%;">
+  <img src="figures/denoising_diffusion.gif" alt="Denoising Diffusion GIF" width="15%">
 </div>
   
 ---
@@ -41,7 +41,7 @@ I’m passionate about advancing materials science by integrating state of the a
 - **Paper**: [(NAACL 2022) Augmenting Scientific Creativity with Retrieval across Knowledge Domains](https://arxiv.org/pdf/2206.01328)  
 - **Code**: [GitHub Repository](https://github.com/olivettigroup/cross-domain-exploration)  
 <div align="center">
-  <img src="scientific_creativity.jpg" alt="Scientific Creativity" width="400"/>
+  <img src="figures/scientific_creativity.jpg" alt="Scientific Creativity" width="400"/>
 </div>
 
 **Extracting a Database of Challenges and Mitigation Strategies for Sodium-ion Battery Development**  
@@ -50,7 +50,7 @@ I’m passionate about advancing materials science by integrating state of the a
 - **Paper**: [(NeurIPS AI4Mat) Extracting a Database of Challenges and Mitigation Strategies for Sodium-ion Battery Development](https://openreview.net/pdf?id=3GiwwOJ1be)  
 - **Code**: [GitHub Repository](https://github.com/olivettigroup/NLP4SIB)  
   <div align="center">
-    <img src="sib_cluster.jpg" alt="SIB Challenges" width="600"/>
+    <img src="figures/sib_cluster.jpg" alt="SIB Challenges" width="600"/>
   </div> 
 
 **Regress, Don't Guess – A Regression-like Loss on Number Tokens for Language Models**  
@@ -59,7 +59,7 @@ I’m passionate about advancing materials science by integrating state of the a
 - **Paper**: [(NeurIPS MathAI) Regress, Don't Guess – A Regression-like Loss on Number Tokens for Language Models](https://arxiv.org/pdf/2411.02083)  
 - **Code**: [GitHub Repository](https://github.com/tum-ai/number-token-loss)  
   <div align="center">
-    <img src="ntl.jpg" alt="Regression-like Loss on Number Tokens" width="400"/>
+    <img src="figures/ntl.jpg" alt="Regression-like Loss on Number Tokens" width="400"/>
   </div>
 
 ---
