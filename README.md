@@ -3,7 +3,7 @@
 I’m passionate about advancing materials science by integrating state of the art AI techniques. My contributions span from materials representation learning to NLP. 🌟  
 
 ---
-###Natural Language Processing
+### Natural Language Processing
 
 **Augmenting Scientific Creativity with Retrieval across Knowledge Domains**  
 - Developed an exploratory search system enabling scientists to select core text from a paper abstract and retrieve cross-domain papers with high similarity, facilitating knowledge transfer across scientific domains.  
