@@ -38,7 +38,7 @@ I’m passionate about advancing materials science by integrating state of the a
 - **Methods**: Multi-task Learning, Transformer Architecture, Denoising Autoencoders
 - **Paper**: [MTENCODER: A Multi-task Pretrained Transformer Encoder for Materials Representation Learning](https://openreview.net/pdf?id=wug7i3O7y1) 
   <div align="center">
-    <img src="mtencoder.jpg" alt="MTENCODER" width="400"/>
+    <img src="mtencoder.jpg" alt="MTENCODER" width="600"/>
   </div>
 
 
