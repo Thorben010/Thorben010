@@ -14,8 +14,8 @@ I’m passionate about advancing materials science by integrating state of the a
   </div>
 
 **A Chemically-Guided Generative Diffusion Model for Materials Synthesis Planning**  
-- Introduces a generative model utilizing diffusion processes to predict viable synthesis routes for zeolite materials, considering the complex one-to-many relationships between structure and synthesis.  
-- **Methods**: Diffusion Models, Generative Modeling, Materials Synthesis Prediction  
+- Introduces a generative model utilizing diffusion processes to predict viable synthesis routes for zeolite materials, considering the complex one-to-many relationships between structure and synthesis.
+- **Methods**: Diffusion Models, Generative Modeling, Materials Synthesis Prediction
 - **Paper**: [(NeurIPS AI4Mat Spotlight) A Chemically-Guided Generative Diffusion Model for Materials Synthesis Planning](https://openreview.net/pdf?id=hy39qxU6CQ)
   
   <div align="center">
