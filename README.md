@@ -54,10 +54,6 @@ I’m passionate about advancing materials science by integrating state of the a
   </div>
 
 
-
-**Generative Diffusion Model for Materials Synthesis**  
-- Designing a chemically guided diffusion model for planning and optimizing materials synthesis.  
-
 **Reaction Graph Networks**  
 - Predicting synthesis conditions of solid-state materials using reaction graph networks to enable efficient material discovery.  
 
