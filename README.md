@@ -8,7 +8,7 @@ I’m passionate about advancing materials science by integrating state of the a
 **Augmenting Scientific Creativity with Retrieval across Knowledge Domains**  
 - Developed an exploratory search system enabling scientists to select core text from a paper abstract and retrieve cross-domain papers with high similarity, facilitating knowledge transfer across scientific domains.  
 - **Methods**: Sentence Transformers, Clustering Techniques & Metrics  
-- **Paper**: [Augmenting Scientific Creativity with Retrieval across Knowledge Domains](https://arxiv.org/pdf/2206.01328)  
+- **Paper**: [(NAACL 2022) Augmenting Scientific Creativity with Retrieval across Knowledge Domains](https://arxiv.org/pdf/2206.01328)  
 - **Code**: [GitHub Repository](https://github.com/olivettigroup/cross-domain-exploration)  
 <div align="center">
   <img src="scientific_creativity.jpg" alt="Scientific Creativity" width="400"/>
@@ -41,10 +41,6 @@ I’m passionate about advancing materials science by integrating state of the a
     <img src="mtencoder.jpg" alt="MTENCODER" width="600"/>
   </div>
 
-
-### 🧪 **Materials Science Projects**  
-**MTENCODER**  
-- Developing a multi-task pretrained transformer encoder for materials representation learning.  
 
 **Generative Diffusion Model for Materials Synthesis**  
 - Designing a chemically guided diffusion model for planning and optimizing materials synthesis.  
