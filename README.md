@@ -6,9 +6,9 @@ I’m passionate about advancing materials science by integrating state of the a
 ### 🧪 **Materials Science**
 
 **LLMForge: Language Models Enable Data-Augmented Synthesis Planning for Inorganic Materials**  
-- Benchmark of seven state-of-the-art LMs on precursor recommendation and synthesis-condition regression, achieving up to 53.8% Top-1 precursor accuracy and MAEs below 126 °C. Generated 28,548 synthetic solid-state recipes via OpenAI GPT-4.1, expanding the dataset size by 616 % over literature-mined protocols.    
+- Benchmarking of seven state-of-the-art LMs on precursor recommendation and synthesis-condition regression, achieving up to 53.8% Top-1 precursor accuracy and MAEs below 126 °C. Generated 28,548 synthetic solid-state recipes via OpenAI GPT-4.1, expanding current dataset size by 616 % over literature-mined protocols.    
 - **Methods**: Large Language Models, Data Augmentation, Transformer Pretraining, Ensemble Modeling  
-- **Repository**: [GitHub – llm_synthesis Overview](https://github.com/Thorben010/llm_synthesis)  
+- **Repository**: [Project GitHub](https://github.com/Thorben010/llm_synthesis)  
 
 <div align="center">
   <img src="https://github.com/Thorben010/SyntMTE/blob/master/figures/condition_regression.png" alt="Condition Regression Performance" width="600"/>
